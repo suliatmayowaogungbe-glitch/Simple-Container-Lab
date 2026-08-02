@@ -1,7 +1,9 @@
-Simple-Container-Lab
+## Simple-Container-Lab
 This project demonstrates a complete Docker containerization workflow, from writing a simple Node.js application to building an image, running it as a container, and pushing the project to GitHub.
+
 ## Overview
 This repository was created as a hands-on lab to practice and understand the fundamentals of containerization with Docker. The project simulates how developers package an application into a portable, isolated environment that runs consistently regardless of the host machine. The objective was not to build a complex application but to gain practical experience with the Docker build-run-ship workflow.
+
 ## Project Purpose
 This lab covers: writing a simple application, creating a Dockerfile, building a Docker image, running a container from that image, initializing a Git repository, and pushing the project to GitHub.
 
